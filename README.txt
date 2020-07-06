@@ -1,2 +1,2 @@
-gcc server.c -lpthread -o erver
+gcc server.c -lpthread -o server
 gcc client.c -lpthread -o client
